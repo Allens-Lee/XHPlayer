@@ -1,0 +1,15 @@
+PODS:
+  - ReachabilitySwift (4.1.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - ReachabilitySwift (~> 4.1.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 9e3f11cdf961a76f0f755b0149868b18ead40920
+
+COCOAPODS: 1.4.0.beta.1
